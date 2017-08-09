@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Work Out Randomizer</string>
+    <string name="intro_to_app">Hello, welcome to the workout organizer!
+                                \nin this app you tap the part of the body you\'re
+                                \ntraining and select the number of workouts you wish to perform.
+                                We will come up with a workout for you!</string>
+    <string name="test">http://workoutrandom.x10host.com/cgi-bin/workoutRandomizerApp.html</string>
+    <string name="legs_before_link">Click this link to see how these workouts are performed </string>
+</resources>
